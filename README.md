@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartikeya Bhatt
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning .DATA STRUCTURE AND ALGOTRITHMN..
+- 🌱 I’m currently learning .DATA STRUCTURE AND ALGOTRITHMN..AND Web Developnment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kartikeyabhatt99@gmail.com
 
