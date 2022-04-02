@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning .DATA STRUCTURE AND ALGOTRITHMN..AND Web Developnment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me KARTIKEYABHATT.CSE.20011715@gehu.ac.in
+- 📫 How to reach me 
 
 <!---
 kartikeya99Bhatt/kartikeya99Bhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
