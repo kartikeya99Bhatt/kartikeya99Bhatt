@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARTIKEYA BHATT</h1>
 <h3 align="center">A Coding Is My Passion ✅ 😊 Engineer By Choice ✅ ✅ && Proud To Be India</h3>
 
-<p align="left"> <img src="https://cdn.wccftech.com/wp-content/uploads/2017/02/Computer-Science-Programming-Languages-2017-Bootcamp.jpg" alt="kartikeya99bhatt" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="kartikeya99bhatt" /> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms && Web Development**
 
