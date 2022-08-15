@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://durofy.com/wp-content/uploads/2012/10/1000px-Ascii_Table-nocolor.svg_.png"
 <h3 align="center">A Coding Is My Passion ✅ 😊 Engineer By Choice ✅ ✅ && Proud To Be India</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="kartikeya99bhatt" /> </p>
+
 
 - 🌱 I’m currently learning **Data Structure and Algorithms && Web Development**
 
