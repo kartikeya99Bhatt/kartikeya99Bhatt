@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KARTIKEYA BHATT</h1>
-<p align="left"> <img src="https://durofy.com/wp-content/uploads/2012/10/1000px-Ascii_Table-nocolor.svg_.png"
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/1280px-ASCII-Table-wide.svg.png"
 <h3 align="center">A Coding Is My Passion ✅ 😊 Engineer By Choice ✅ ✅ && Proud To Be India</h3>
 
 
