@@ -5,9 +5,7 @@
 <p align="left"> <img src="https://www.alpharithms.com/wp-content/uploads/340/ascii-table-alpharithms-scaled.jpg"
                       
 - 🌱 I’m currently learning **Data Structure and Algorithms**
-
 - 📫 How to reach me **bhattkartikeya99@gmail.com**
-
 - ⚡ Fun fact **I Am A Good Learner**
 
 <h3 align="left">Connect with me:</h3>
