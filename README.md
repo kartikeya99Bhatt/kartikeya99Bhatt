@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya99bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya99bhatt" /> </p>
 <p align="left"> <img src="https://www.alpharithms.com/wp-content/uploads/340/ascii-table-alpharithms-scaled.jpg"
                       
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Data Structure and Algorithms AND Web Developnment**
 - 📫 How to reach me **bhattkartikeya99@gmail.com**
 - ⚡ Fun fact **I Am A Good Learner**
 
