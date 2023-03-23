@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KARTIKEYA BHATT</h1>
-<h3 align="center">A Coding Is My Passion ✅ 😊 Engineer By Choice ✅ ✅ 
+<h3 align="center">😊 Engineer By Choice ✅ 
                    && Proud To Be India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya99bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya99bhatt" /> </p>
 <p align="left"> <img src="https://www.alpharithms.com/wp-content/uploads/340/ascii-table-alpharithms-scaled.jpg"
